@@ -5,12 +5,12 @@ import (
 	_ "net/http/pprof"
 	"os"
 
-	"github.com/xiaofei-ya/proxypool/api"
-	"github.com/xiaofei-ya/proxypool/internal/app"
-	"github.com/xiaofei-ya/proxypool/internal/cron"
-	"github.com/xiaofei-ya/proxypool/internal/database"
-	"github.com/xiaofei-ya/proxypool/log"
-	"github.com/xiaofei-ya/proxypool/pkg/proxy"
+	"github.com/csjtl/proxypool/api"
+	"github.com/csjtl/proxypool/internal/app"
+	"github.com/csjtl/proxypool/internal/cron"
+	"github.com/csjtl/proxypool/internal/database"
+	"github.com/csjtl/proxypool/log"
+	"github.com/csjtl/proxypool/pkg/proxy"
 )
 
 var configFilePath = ""

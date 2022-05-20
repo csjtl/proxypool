@@ -1,8 +1,8 @@
 package database
 
 import (
-	"github.com/xiaofei-ya/proxypool/log"
-	"github.com/xiaofei-ya/proxypool/pkg/proxy"
+	"github.com/csjtl/proxypool/log"
+	"github.com/csjtl/proxypool/pkg/proxy"
 	"gorm.io/gorm"
 	"time"
 )

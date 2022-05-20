@@ -1,9 +1,9 @@
 package getter
 
 import (
-	"github.com/xiaofei-ya/proxypool/log"
-	"github.com/xiaofei-ya/proxypool/pkg/proxy"
-	"github.com/xiaofei-ya/proxypool/pkg/tool"
+	"github.com/csjtl/proxypool/log"
+	"github.com/csjtl/proxypool/pkg/proxy"
+	"github.com/csjtl/proxypool/pkg/tool"
 	"gopkg.in/yaml.v3"
 	"io/ioutil"
 	"sync"

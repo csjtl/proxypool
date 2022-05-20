@@ -1,7 +1,7 @@
 package provider
 
 import (
-	"github.com/xiaofei-ya/proxypool/pkg/tool"
+	"github.com/csjtl/proxypool/pkg/tool"
 	"strings"
 )
 

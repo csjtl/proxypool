@@ -5,14 +5,14 @@
 <h5 align="center">自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重测试可用性后提供节点列表</h5>
 
 <p align="center">
-  <a href="https://github.com/xiaofei-ya/proxypool/actions">
-    <img src="https://img.shields.io/github/workflow/status/xiaofei-ya/proxypool/Go?style=flat-square" alt="Github Actions">
+  <a href="https://github.com/csjtl/proxypool/actions">
+    <img src="https://img.shields.io/github/workflow/status/csjtl/proxypool/Go?style=flat-square" alt="Github Actions">
   </a>
-  <a href="https://goreportcard.com/report/github.com/xiaofei-ya/proxypool">
-    <img src="https://goreportcard.com/badge/github.com/xiaofei-ya/proxypool?style=flat-square">
+  <a href="https://goreportcard.com/report/github.com/csjtl/proxypool">
+    <img src="https://goreportcard.com/badge/github.com/csjtl/proxypool?style=flat-square">
   </a>
-  <a href="https://github.com/xiaofei-ya/proxypool/releases">
-    <img src="https://img.shields.io/github/release/xiaofei-ya/proxypool/all.svg?style=flat-square">
+  <a href="https://github.com/csjtl/proxypool/releases">
+    <img src="https://img.shields.io/github/release/csjtl/proxypool/all.svg?style=flat-square">
   </a>
 </p>
 
@@ -40,7 +40,7 @@
 
 > heroku app域名为appname.herokuapp.com。项目内配置文件为./config/config.yaml
 
-配置文件模板见 config/config.yaml 文件，可选项区域均可不填。完整配置选项请查看[配置文件说明](https://github.com/xiaofei-ya/proxypool/wiki/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E8%AF%B4%E6%98%8E)。
+配置文件模板见 config/config.yaml 文件，可选项区域均可不填。完整配置选项请查看[配置文件说明](https://github.com/csjtl/proxypool/wiki/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E8%AF%B4%E6%98%8E)。
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
@@ -52,7 +52,7 @@
 需要安装Golang 
 
 ```sh
-$ go get -u -v github.com/xiaofei-ya/proxypool
+$ go get -u -v github.com/csjtl/proxypool
 ```
 
 运行
@@ -67,12 +67,12 @@ make
 
 ### 下载预编译程序
 
-从这里下载预编译好的程序 [release](https://github.com/xiaofei-ya/proxypool/releases)。
+从这里下载预编译好的程序 [release](https://github.com/csjtl/proxypool/releases)。
 
 ### 使用docker
 
 ```sh
-docker pull docker.pkg.github.com/xiaofei-ya/proxypool/proxypool:latest
+docker pull docker.pkg.github.com/csjtl/proxypool/proxypool:latest
 ```
 
 ## 使用
@@ -81,7 +81,7 @@ docker pull docker.pkg.github.com/xiaofei-ya/proxypool/proxypool:latest
 
 ### 修改配置文件
 
-首先修改 config.yaml 中的必要配置信息。带有默认值的字段均可不填写。完整的配置选项见[配置文件说明](https://github.com/xiaofei-ya/proxypool/wiki/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E8%AF%B4%E6%98%8E)
+首先修改 config.yaml 中的必要配置信息。带有默认值的字段均可不填写。完整的配置选项见[配置文件说明](https://github.com/csjtl/proxypool/wiki/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E8%AF%B4%E6%98%8E)
 
 ### 启动程序
 
@@ -91,7 +91,7 @@ docker pull docker.pkg.github.com/xiaofei-ya/proxypool/proxypool:latest
 proxypool -c ./config/config.yaml
 ```
 
-如果需要部署到VPS，更多细节请[查看wiki](https://github.com/xiaofei-ya/proxypool/wiki/%E9%83%A8%E7%BD%B2%E5%88%B0VPS-Step-by-Step)。
+如果需要部署到VPS，更多细节请[查看wiki](https://github.com/csjtl/proxypool/wiki/%E9%83%A8%E7%BD%B2%E5%88%B0VPS-Step-by-Step)。
 
 ## Clash配置文件
 
@@ -101,7 +101,7 @@ proxypool -c ./config/config.yaml
 
 ## 本地检查节点可用性
 
-此项非必须。为了提高实际可用性，可选择增加一个本地服务器，检测远程proxypool节点在本地的可用性并提供配置，见[proxypoolCheck](https://github.com/xiaofei-ya/proxypoolCheck)。
+此项非必须。为了提高实际可用性，可选择增加一个本地服务器，检测远程proxypool节点在本地的可用性并提供配置，见[proxypoolCheck](https://github.com/csjtl/proxypoolCheck)。
 
 ## 截图
 

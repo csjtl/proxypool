@@ -1,16 +1,16 @@
 package app
 
 import (
-	"github.com/xiaofei-ya/proxypool/config"
-	"github.com/xiaofei-ya/proxypool/log"
-	"github.com/xiaofei-ya/proxypool/pkg/healthcheck"
+	"github.com/csjtl/proxypool/config"
+	"github.com/csjtl/proxypool/log"
+	"github.com/csjtl/proxypool/pkg/healthcheck"
 	"sync"
 	"time"
 
-	"github.com/xiaofei-ya/proxypool/internal/cache"
-	"github.com/xiaofei-ya/proxypool/internal/database"
-	"github.com/xiaofei-ya/proxypool/pkg/provider"
-	"github.com/xiaofei-ya/proxypool/pkg/proxy"
+	"github.com/csjtl/proxypool/internal/cache"
+	"github.com/csjtl/proxypool/internal/database"
+	"github.com/csjtl/proxypool/pkg/provider"
+	"github.com/csjtl/proxypool/pkg/proxy"
 )
 
 var location, _ = time.LoadLocation("PRC")

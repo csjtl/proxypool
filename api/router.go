@@ -1,8 +1,8 @@
 package api
 
 import (
-	binhtml "github.com/xiaofei-ya/proxypool/internal/bindata/html"
-	"github.com/xiaofei-ya/proxypool/log"
+	binhtml "github.com/csjtl/proxypool/internal/bindata/html"
+	"github.com/csjtl/proxypool/log"
 	"html/template"
 	"net/http"
 	"os"
@@ -10,9 +10,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/xiaofei-ya/proxypool/config"
-	appcache "github.com/xiaofei-ya/proxypool/internal/cache"
-	"github.com/xiaofei-ya/proxypool/pkg/provider"
+	"github.com/csjtl/proxypool/config"
+	appcache "github.com/csjtl/proxypool/internal/cache"
+	"github.com/csjtl/proxypool/pkg/provider"
 	"github.com/gin-contrib/cache"
 	"github.com/gin-contrib/cache/persistence"
 	"github.com/gin-gonic/gin"
