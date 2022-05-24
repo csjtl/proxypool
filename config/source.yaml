@@ -58,7 +58,7 @@
     
 - type: subscribe
   options:
-    url: https://proxypoolsstest.herokuapp.com/trojan/sub
+    url: hhttps://proxypoolsstest.herokuapp.com/trojan/sub
 
 # 网页模糊抓取
 - type: webfuzz
