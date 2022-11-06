@@ -55,10 +55,144 @@
 - type: subscribe
   options:
     url: https://proxypoolsstest.herokuapp.com/vmess/sub
-    
+
+# ↓ 订阅链接############################################################################################################################
 - type: subscribe
   options:
-    url: hhttps://proxypoolsstest.herokuapp.com/trojan/sub
+    url: https://proxypoolsstest.herokuapp.com/trojan/sub
+
+- type: subscribe
+  options:
+    url: https://gitlab.com/api/v4/projects/32824328/repository/files/everydaySuB.txt/raw?ref=main&private_token=glpat-U6qeL-cHhrEVA3NDRind
+
+- type: subscribe
+  options:
+    url: https://proxypoolss.tk/trojan/sub
+
+- type: subscribe
+  options:
+    url: https://proxypoolsstest.herokuapp.com/trojan/sub
+
+- type: subscribe
+  options:
+    url: https://suo.yt/oDcWBfy
+
+- type: subscribe
+  options:
+    url: http://free.xrenblog.com/
+
+- type: subscribe
+  options:
+    url: https://paste.in/raw/AeFffC
+
+- type: subscribe
+  options:
+    url: https://paste.in/raw/BiccR4
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/git-yusteven/openit/main/2022/3/20-27
+
+- type: subscribe
+  options:
+    url: https://v1.mk/fNk9SbH
+
+- type: subscribe
+  options:
+    url: https://www.ssjh.net/api/v1/client/subscribe?token=e7aff5dfaf7ad8ba0ba2e29c15d6322e&flag
+
+- type: subscribe
+  options:
+    url: https://v2r.yydsvpn.xyz/api/v1/client/subscribe?token=6062ed36141d61f4f7bc05cde9e79f5c
+
+- type: subscribe
+  options:
+    url: https://github.com/git-yusteven/openit/raw/main/long
+
+- type: subscribe
+  options:
+    url: https://proxypoolss.tk/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://jiang.netlify.app/
+
+- type: subscribe
+  options:
+    url: https://tro.zqwnan.tk/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://pool-840979.asia1.kinto.io/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://gooii.ml/v2ray/sub
+
+- type: subscribe
+  options:
+    url: https://youlianboshi.netlify.com/
+
+- type: subscribe
+  options:
+    url: https://v2ray.banyunxiaoxi.ml/
+
+- type: subscribe
+  options:
+    url: https://proxypoolss.tk/ss/sub
+
+- type: subscribe
+  options:
+    url: https://proxypoolsstest.herokuapp.com/ss/sub
+
+- type: subscribe
+  options:
+    url: https://proxypoolss.tk/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://proxypoolsstest.herokuapp.com/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://api.crhnode.top/subscribe/47740/YAoDWFoI2N/ssr/
+
+- type: subscribe
+  options:
+    url: https://proxypoolss.tk/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://proxypoolsstest.herokuapp.com/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://fast.losadhwselfff2332dasd.xyz/link/5AhOKq588TlKUisL?sub=1
+
+- type: subscribe
+  options:
+    url: https://suo.yt/TXlw9fI
+
+- type: subscribe
+  options:
+    url: https://suo.yt/yVCJ636
+
+- type: subscribe
+  options:
+    url: https://suo.yt/7QYU8al
+
+- type: subscribe
+  options:
+    url: https://v2rayshare.com/wp-content/uploads/2022/11/20221104.txt
+
+- type: subscribe
+  options:
+    url: https://nodefree.org/dy/202211/20221102.txt
+
+- type: subscribe
+  options:
+    url: https://tt.vg/qRvnq
+# ↑ 订阅链接############################################################################################################################
 
 # 网页模糊抓取
 - type: webfuzz
@@ -81,6 +215,24 @@
   options:
     url: https://hyt-allen-xu.github.io/free-v2ray/
 
+# ↓ 网页模糊抓取############################################################################################################################
+- type: webfuzz
+  options:
+    url: https://nodefree.org/p/727.html
+
+- type: webfuzz
+  options:
+    url: https://v2rayshare.com/p/983.html
+
+- type: webfuzz
+  options:
+    url: https://www.cfmem.com/2022/08/20220820-2022204k-v2rayclash-vpn.html
+
+- type: webfuzz
+  options:
+    url: https://www.gaofumei.net/tag/ss%e8%8a%82%e7%82%b9%e5%9c%b0%e5%9d%80%e5%85%8d%e8%b4%b9%e5%88%86%e4%ba%ab/
+# ↑ 网页模糊抓取############################################################################################################################
+
 # tg频道抓取
 - type: tgchannel
   options:
@@ -100,7 +252,65 @@
 - type: clash
   options:
     url: https://bihai.cf/clash/proxies
-    
+
+# ↓ clash格式订阅链接############################################################################################################################
+- type: clash
+  options:
+    url: https://suo.yt/eaW68ok
+
+- type: clash
+  options:
+    url: http://openit.ml/Clash.yaml
+
+- type: clash
+  options:
+    url: https://suo.yt/0Ug05QT
+
+- type: clash
+  options:
+    url: https://suo.yt/SaVCI0V
+
+- type: clash
+  options:
+    url: https://github.com/git-yusteven/openit/raw/main/Clash.yaml
+
+- type: clash
+  options:
+    url: https://cdn.jsdelivr.net/gh/git-yusteven/openit@main/Clash.yaml
+
+- type: clash
+  options:
+    url: https://github.com/git-yusteven/openit/raw/main/pub/jiang.yaml
+
+- type: clash
+  options:
+    url: https://github.com/git-yusteven/openit/raw/main/pub/mattkaydiary.yaml
+
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/chfchf0306/clash/main/clash
+
+- type: clash
+  options:
+    url: https://raw.fastgit.org/git-yusteven/openit/main/long
+
+- type: clash
+  options:
+    url: https://mkkhack.pw/Clash
+
+- type: clash
+  options:
+    url: https://nodefree.org/dy/202211/20221102.yaml
+
+- type: clash
+  options:
+    url: https://v2rayshare.com/wp-content/uploads/2022/11/20221104.yaml
+
+- type: clash
+  options:
+    url: https://tt.vg/eEKDO
+# ↑ clash格式订阅链接############################################################################################################################
+
 # youtube xiaofeiya
 - type: clash
   options:
